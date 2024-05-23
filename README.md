@@ -6,3 +6,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfgunIsGun&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfgunIsGun&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](http://test-five-lyart-22.vercel.app/api/cards/productive-time?username=AfgunIsGun&theme=2077&utcOffset=8)
+
+![](http://test-five-lyart-22.vercel.app/api/cards/profile-details?username=AfgunIsGun&theme=2077)
+
+![](https://komarev.com/ghpvc/?username=AfgunIsGun&color=red&label=Total+Logins)
