@@ -31,4 +31,9 @@ Some *embedded* Markdown which `md-block` can convert for you!
 ![](https://green-wall.leoku.dev/api/og/share/Golgrax)
 
 
-![](https://contribution.catsjuice.com/_/Golgrax?chart=3dbar&gap=0.6&scale=2&flatten=1&weeks=30&theme=green&dark=true)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Golgrax?format=svg&weeks=50&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Golgrax?format=svg&weeks=50">
+    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/Golgrax?format=svg&weeks=50" max-height="150">
+  </picture>
